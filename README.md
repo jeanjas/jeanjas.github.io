@@ -1,2 +1,4 @@
-# jeanjas.github.io
-Data Science Portfolio
+# Data Analyst 
+
+### Education
+Google Data Analytics
